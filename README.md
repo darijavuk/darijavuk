@@ -1,9 +1,8 @@
 ## Hi there 👋
 
 
-**darijavuk/darijavuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h1>I'm Darija, a designer. </h1>h1>
+I'm currently learning Front-end development, using HTML, CSS and Java Script.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
