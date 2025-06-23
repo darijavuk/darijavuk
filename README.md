@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-<h1>I'm Darija, a designer. </h1>h1>
+<h1>I'm Darija, a designer. </h1>
 I'm currently learning Front-end development, using HTML, CSS and Java Script.
 
 - 🔭 I’m currently working on ...
